@@ -37,3 +37,4 @@ print(ls.path)  # prints path to local_storage
 - Make it work. Pushed a folder from my repo so some stuff are left from there
 - Make some stupid way of saving config like ls.config = {'local_path': 'here/there/folder/local_storage', 'use_pickle':False}
 - Config to set save/load child-class? ls.config.save = S3Interface
+- complete sub directories functionality: ls.add_sub = 'sub_dir' and then ls.sub_dir.some_file = {1:2}. Very cool.
