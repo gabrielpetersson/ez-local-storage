@@ -19,5 +19,6 @@ print(ls.my_new_file.append_({"bar":"foo"}))
 
 
 ### TODO:
-
+- Make it work. Pushed a folder from my repo so some stuff are left from there
 - Make some stupid way of saving config like ls.config = {'local_path': 'here/there/folder/local_storage', 'use_pickle':False}
+- Config to set save/load child-class? ls.config.save = S3Interface
