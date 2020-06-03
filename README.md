@@ -1,6 +1,6 @@
 # ez-local-storage
 
-### Python library filled with bad practises! Great for saving data and loading it anywhere asap. Perfect for saving and loading fixture test data
+ Python library filled with bad practises! Great for saving data and loading it anywhere asap. Perfect for saving and loading fixture test data
 
 ## Usage
 
