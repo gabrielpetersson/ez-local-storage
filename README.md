@@ -13,8 +13,8 @@ ls.my_new_file = [{"foo":"bar"}]
 print(ls.my_new_file.load())  
 # prints [{"foo":"bar"}]
 
-print(ls.my_new_file.append_({"bar":"foo"}))
 # prints [{"foo":"bar"}, {"bar":"foo"}] and saves it locally
+print(ls.my_new_file.append_({"bar":"foo"}))
 ```
 
 
